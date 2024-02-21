@@ -6,6 +6,11 @@ https://capstorageosgopinath.blob.core.windows.net/firstone/New Rich Text Docume
 https://www.sqlservertutorial.net/getting-started/sql-server-sample-database/
 
 
-Code First Approach 
+-- Code first
 
 https://github.com/admiralnelson/iot_DataAcquisition/tree/master/Models
+
+
+Sample working code 
+
+https://github.com/sureshnewdevdev/EFCoreCodeFirstSample
